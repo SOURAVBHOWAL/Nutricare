@@ -1,0 +1,28 @@
+# Node.js
+**/node_modules/
+**/.env
+**/dist/
+**/.next/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.pkl
+*.h5
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Logs and caches
+*.log
+*.sqlite3
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+
+# LFS tracked files
+.gitattributes
